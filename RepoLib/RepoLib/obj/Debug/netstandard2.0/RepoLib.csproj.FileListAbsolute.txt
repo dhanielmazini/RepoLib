@@ -1,9 +1,0 @@
-C:\Users\dhaniel.mazini\Desktop\TesteGit\RepoLib\RepoLib\bin\Debug\netstandard2.0\RepoLib.deps.json
-C:\Users\dhaniel.mazini\Desktop\TesteGit\RepoLib\RepoLib\bin\Debug\netstandard2.0\RepoLib.dll
-C:\Users\dhaniel.mazini\Desktop\TesteGit\RepoLib\RepoLib\bin\Debug\netstandard2.0\RepoLib.pdb
-C:\Users\dhaniel.mazini\Desktop\TesteGit\RepoLib\RepoLib\obj\Debug\netstandard2.0\RepoLib.csprojAssemblyReference.cache
-C:\Users\dhaniel.mazini\Desktop\TesteGit\RepoLib\RepoLib\obj\Debug\netstandard2.0\RepoLib.csproj.CoreCompileInputs.cache
-C:\Users\dhaniel.mazini\Desktop\TesteGit\RepoLib\RepoLib\obj\Debug\netstandard2.0\RepoLib.AssemblyInfoInputs.cache
-C:\Users\dhaniel.mazini\Desktop\TesteGit\RepoLib\RepoLib\obj\Debug\netstandard2.0\RepoLib.AssemblyInfo.cs
-C:\Users\dhaniel.mazini\Desktop\TesteGit\RepoLib\RepoLib\obj\Debug\netstandard2.0\RepoLib.dll
-C:\Users\dhaniel.mazini\Desktop\TesteGit\RepoLib\RepoLib\obj\Debug\netstandard2.0\RepoLib.pdb
