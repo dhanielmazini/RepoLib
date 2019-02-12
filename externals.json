@@ -5,5 +5,12 @@
     "CaminhoExterno": null,
     "CaminhoLocal": "C:/Users/dhaniel.mazini/Desktop/TesteGit/RepoVS/Lib",
     "opcao": 0
+  },
+  {
+    "NomeExterno": "RepoLib",
+    "UrlExterno": "https://github.com/dhanielmazini/RepoLib",
+    "CaminhoExterno": "RepoLib/bin/Debug",
+    "CaminhoLocal": "C:/Users/dhaniel.mazini/Desktop/TesteGit/RepoVS/Lib/TesteDiretorio",
+    "opcao": 1
   }
 ]
