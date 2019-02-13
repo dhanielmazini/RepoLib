@@ -1,0 +1,10 @@
+[
+  {
+    "NomeExterno": "Debug",
+    "NomeRepositorioExterno": "RepoLib",
+    "UrlExterno": "https://github.com/dhanielmazini/RepoLib",
+    "CaminhoExterno": "RepoLib\\bin\\Debug",
+    "CaminhoLocal": "C:\\Users\\dhaniel.mazini\\Desktop\\TesteGit\\RepoVS\\Lib",
+    "opcao": 1
+  }
+]
