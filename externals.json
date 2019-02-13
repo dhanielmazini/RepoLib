@@ -1,0 +1,10 @@
+[
+  {
+    "NomeExterno": "netstandard2.0",
+    "NomeRepositorioExterno": "RepoLib",
+    "UrlExterno": "https://github.com/dhanielmazini/RepoLib",
+    "CaminhoExterno": "RepoLib/bin/Debug/netstandard2.0",
+    "CaminhoLocal": "C:/Users/dhaniel.mazini/Desktop/TesteGit/RepoVS/Lib",
+    "opcao": 1
+  }
+]
